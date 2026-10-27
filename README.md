@@ -1,6 +1,6 @@
 # tech-teku-toolkit 🌳
 
-[![tests](https://github.com/Barusamico3839/tech-teku-toolkit/actions/workflows/test.yml/badge.svg)](https://github.com/Barusamico3839/tech-teku-toolkit/actions/workflows/test.yml)
+[![tests](https://github.com/hikasshi/tech-teku-toolkit/actions/workflows/test.yml/badge.svg)](https://github.com/hikasshi/tech-teku-toolkit/actions/workflows/test.yml)
 
 Tech-Teku's toolkit of Claude Code **harness** plugins, distributed as one marketplace.
 
