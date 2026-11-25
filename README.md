@@ -13,7 +13,7 @@ and keep a **vetted stock** of the latest harness-engineering trends.
 ### Install
 
 ```
-/plugin marketplace add Barusamico3839/tech-teku-toolkit
+/plugin marketplace add hikasshi/tech-teku-toolkit
 /plugin install harnesseed@tech-teku-toolkit
 ```
 
